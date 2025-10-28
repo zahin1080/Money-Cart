@@ -1,8 +1,11 @@
-# React + Vite
+Money Cart is a simple shopping cart application that allows users to add products, view their cart, and calculate the total cost. It’s designed for easy tracking of items and prices in a shopping scenario.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features: 
 
-Currently, two official plugins are available:
+Add items to the cart with their name, quantity, and price.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Remove items from the cart.
+
+Display the cart contents with item-wise costs.
+
+Calculate the total cost of all items in the cart.
